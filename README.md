@@ -1,5 +1,6 @@
 # UsageGitHub
-aaaa
+ブランチつくたた
+
 
 GitHub使い方 俺用メモ。
 
